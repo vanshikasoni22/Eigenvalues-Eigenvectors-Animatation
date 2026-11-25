@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Manim cache & render outputs (keep root Video.mp4 if desired)
+media/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary build lists & OS files
+concat_list.txt
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
